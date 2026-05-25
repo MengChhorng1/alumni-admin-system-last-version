@@ -1,1 +1,0 @@
-import{u as e}from"./index-WKPM1QRU.js";import{t}from"./proxy-CX2xXYfc.js";var n=e();function r({children:e}){return(0,n.jsx)(t.div,{initial:{opacity:0,y:12},animate:{opacity:1,y:0},exit:{opacity:0,y:-12},transition:{duration:.25},children:e})}export{r as t};
