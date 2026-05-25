@@ -1,0 +1,1 @@
+import{u as e}from"./index-D5lRYKnW.js";import{t}from"./proxy-CS7ZxA1s.js";var n=e();function r({children:e}){return(0,n.jsx)(t.div,{initial:{opacity:0,y:12},animate:{opacity:1,y:0},exit:{opacity:0,y:-12},transition:{duration:.25},children:e})}export{r as t};
